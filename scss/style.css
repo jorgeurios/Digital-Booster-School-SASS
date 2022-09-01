@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  font-family: OpenSans;
+}
+
+header {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0px 20px 0px;
+}
+header .header-logo {
+  width: 30rem;
+  height: auto;
+  text-align: center;
+}
+header .header-logo .header-menu {
+  display: inline-block;
+  font-size: 1em;
+  text-align: center;
+}
+
+main section .slider {
+  text-align: center;
+  margin-top: 10px 5px 5px 10px;
+  padding: 20px 0px 0px 20px;
+}
+main section .slider .h1 {
+  width: 100%;
+}
+main section .slider .h1 .visto {
+  text-align: center;
+  padding: 20px 0px 0px 20px;
+}
+
+.footer {
+  background-color: #fff;
+  text-align: center;
+}
+.footer .footer-logo {
+  width: 40rem;
+  height: auto;
+  text-align: center;
+}
+.footer .footer-logo .icon {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
